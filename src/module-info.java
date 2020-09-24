@@ -1,0 +1,2 @@
+module dass_3 {
+}
